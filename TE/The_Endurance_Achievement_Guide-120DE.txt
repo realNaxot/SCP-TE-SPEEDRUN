@@ -1,0 +1,65 @@
+SCP - THE ENDURANCE ACHIEVEMENT GUIDE:
+
+Bronze:
+- Seriously? How?:
+-- Wyłącz wentylację w nocy 1 i zgiń przez uduszenie.
+
+Silver:
+- Ah, there you are!:
+-- Wpuść SCP-1048 do swojego biura i wielokrotnie naciśnij jego nos.
+
+- OwO What's this?:
+-- Wpisz komendę help lub commands w terminalu na głównym monitorze.
+
+- The abyss cannot hold me:
+-- Ucieknij z Wymiaru Łuzowego i z powodzeniem ukończ dowolną noc (Nie dotyczy Custom Night).
+
+- One step forward, two steps back:
+-- Odnajdź spaloną kartkę w Wymiarze Łuzowym i spadnij w otchłań.
+
+- You're cute, but that could've killed me:
+-- Wpuść SCP-1048 do swojego biura i pozwól mu siedzieć na wyłączonym komputerze przez co najmniej 1 godzinę (tj. 1 minutę czasu rzeczywistego), po czym z powodzeniem ukończ noc.
+
+- So close, yet so far:
+-- Zgiń w ciągu ostatnich 10 minut (tj. 10 sekund czasu rzeczywistego) dowolnej nocy.
+
+- Staring contest:
+-- Utrzymaj SCP-173 w swoim biurze przez co najmniej 1 godzinę (tj. 1 minutę czasu rzeczywistego) [Nie dotyczy Custom Night].
+
+- It doesn't have to end this way:
+-- Z powodzeniem ukończ noc piątą.
+
+- Catch me if you can:
+-- Z powodzeniem ukończ noc po rozwścieczeniu SCP-096.
+
+Gold:
+- You enjoy it a little too much, don't you?:
+-- Zgiń na każdy możliwy sposób (tj. Od SCP-049, SCP-096, SCP-106, SCP-173, SCP-860-2, poprzez uduszenie, poprzez upadek z wysokości w Wymiarze Łuzowym oraz poprzez śmierć w otchłani Wymiaru Łuzowego).
+
+- Oh yeah, it's all coming together:
+-- Użyj sekretnego kodu ze spalonych kartek z Wymiaru Łuzowego.
+
+- L + Ratio:
+-- Z powodzeniem ukończ noc trzecią bez użycia kamer.
+
+- You've got a friend in me:
+-- Uzyskaj tysiąc punktów AI dodanych przez SCP-066.
+
+- Hold up. Is that a bug or a feature?:
+-- Wielokrotnie w krótkim odstępie czasu naciśnij przycisk do zamknięcia drzwi w momencie, gdy SCP-860-2 je zablokuje.
+
+- The Bigger Picture:
+-- Z powodzeniem ukończ noc szóstą bez sekretnego zakończenia.
+
+- All it takes is one slip...:
+-- Uzyskaj sekretne zakończenie nocy szóstej poprzez włączenie wszystkich wind w trybie Power Manager.
+
+Platinum:
+- Lore Hunter:
+-- Uzyskaj wszystkie zakończenia.
+
+- My goals are beyond your understanding:
+-- W trybie Power Manager w nocy szóstej wyłącz wszystkie światła na wszystkich piętrach.
+
+- That's all you've got?:
+-- Z powodzeniem ukończ tryb 8/20.
